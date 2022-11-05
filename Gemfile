@@ -41,7 +41,7 @@ gem "jbuilder"
 # gem 'tzinfo-data', '>= 1.2016.7' # Don't rely on OSX/Linux timezone data##
 # gem 'tzinfo-data'
 
-# Reduces boot times through caching; required in config/boot.rb
+# Reduces boot times through caching; required in config/boot.rb#
 gem "bootsnap", require: false
 
 # Use Sass to process CSS
